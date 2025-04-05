@@ -977,6 +977,7 @@ img {
 
 .about__project {
   display: inline-block;
+  right: 60px;
   font-size: 26px;
   font-weight: 500;
   line-height: 36px;
